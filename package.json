@@ -1,0 +1,16 @@
+﻿{
+	"name": "gitbook-plugin-back-to-top-button",
+	"version": "0.1.1",
+	"description": "Adds a back to top button to your Gitbook",
+    "main": "index.js",
+    "license": "Apache-2.0",
+    "author": "STÜBER SYSTEMS <gitbook@stueber.de>",
+    "engines": {
+        "gitbook": ">=3.1.1"
+    },
+	"homepage": "https://github.com/stuebersystems/gitbook-plugin-back-to-top-button",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stuebersystems/gitbook-plugin-back-to-top-button.git"
+    }
+}
