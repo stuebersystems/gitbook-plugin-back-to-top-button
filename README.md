@@ -16,7 +16,7 @@ Add the plugin to your `book.json`:
 
 The back to top button in action:
 
-![Screenshots](screenshots.png)
+![Screenshots](https://raw.githubusercontent.com/stuebersystems/gitbook-plugin-back-to-top-button/master/screenshots.png)
 
 ## Changelog
 
