@@ -25,3 +25,4 @@ The back to top button in action:
   * 0.1.1 Minimal Gitbook version changed to 3.1.1
   * 0.1.2 Added link to GitHub repository 
   * 0.1.3 Added support for GitBook themes (White, Sepia, Night)
+  * 0.1.4 Changes in README
